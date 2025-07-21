@@ -18,7 +18,7 @@ It's included in Python’s standard library, so no need to install anything ext
 ### How to run the script
 
 1. Fork this repository.  
-2. Clone it using `git clone <repo-url>`.  
+2. Clone it using `git clone https://github.com/pvk-96/Password_Validator.git`.  
 3. Open the script in any Python IDE or run from terminal using:  
    ```bash
    python password_validator.py
